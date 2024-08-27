@@ -1,2 +1,2 @@
-# Hotel-Heceipt
-simple hotel recept in python
+# Hotel-Receipt
+simple hotel recept with python and tkinter for UI
